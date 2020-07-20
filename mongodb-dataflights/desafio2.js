@@ -1,0 +1,2 @@
+use dataFlights;
+show collections;
